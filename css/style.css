@@ -287,7 +287,7 @@ section.hero {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: url(./img/Banner-Image.png) no-repeat center center/cover;
+	background: url(../img/Banner-Image.png) no-repeat center center/cover;
 	padding: 45px 0;
 }
 body {
@@ -312,7 +312,7 @@ section .main-heading {
 }
 .text-desgin::before {
 	content: "";
-	background: url(./img/animate-bg.png) no-repeat center center/contain;
+	background: url(../img/animate-bg.png) no-repeat center center/contain;
 	width: 100%;
 	height: 100%;
 	position: absolute;
@@ -355,7 +355,7 @@ section.partners {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	background: url(./img/home-2sec.jpeg) no-repeat center center/cover;
+	background: url(../img/home-2sec.jpeg) no-repeat center center/cover;
 	position: relative;
 }
 section.partners::before {
@@ -476,7 +476,7 @@ section.partners .container > div {
 	grid-gap: 10px;
 }
 .product-wrap .product {
-	background: #4bb5cb url(/img/ICU-Equipment.png) no-repeat center center/cover;
+	background: #4bb5cb url(../img/ICU-Equipment.png) no-repeat center center/cover;
 	min-height: 425px;
 	border-radius: 16px;
 	padding: 25px;
@@ -509,7 +509,7 @@ section.partners .container > div {
 	border-color: #283b7b;
 }
 .product-wrap .product.covid {
-	background-image: url(./img/covid-vaccine.png);
+	background-image: url(../img/covid-vaccine.png);
 	background-color: #2396ff;
 }
 /* open-source */
