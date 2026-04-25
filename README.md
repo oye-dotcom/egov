@@ -1,2 +1,2 @@
 full code
-responsive
+responsives
